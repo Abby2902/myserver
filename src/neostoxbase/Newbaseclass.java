@@ -40,7 +40,7 @@ public class Newbaseclass {
 			
 
 		
-		Utility.wait(driver, 1000);
+	
 		
 		
 		
