@@ -20,8 +20,25 @@ public class Newbaseclass {
 		 driver=new ChromeDriver();
 		driver.get(Newutility.readdatafrompropertyfile("url"));
 		driver.manage().window().maximize();
+			Utility.wait(driver, 1000);
+			
 		
 		
+
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			//launch browser
+			
+
 		
 		Utility.wait(driver, 1000);
 		
@@ -30,6 +47,7 @@ public class Newbaseclass {
 		
 		
 		Reporter.log("launching browser with url", true);
+
 		
 		
 	}
