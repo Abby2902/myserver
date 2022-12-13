@@ -27,17 +27,6 @@ public class Newbaseclass {
 		
 		Utility.wait(driver, 1000);
 		
-		
-		
-		
-		
-		
-		
-		
-		
-	
-		
-		
 		Reporter.log("launching browser with url", true);
 		
 		
