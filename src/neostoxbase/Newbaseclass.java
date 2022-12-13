@@ -24,11 +24,21 @@ public class Newbaseclass {
 			
 		
 		
+
 			
 			
 			//launch browser
 			
-			Reporter.log("launching browser with url", true);
+
+		
+		Utility.wait(driver, 1000);
+		
+		
+		
+		
+		
+		Reporter.log("launching browser with url", true);
+
 		
 		
 	}
